@@ -15,5 +15,5 @@ C-x C-c       | quit emacs                                        |
 C-h t         | to learn about emacs tutorial                     | 
 C-x 2         | split the selected frame, one above the other     | 
 C-x C-e       | place the cursor after the closing parenthesis    |
-(split-window-below)
+C-x 2         |                                         |(split-window-below)
 C-x 3         | split the selected frame, positioned side by side | (split-window-right)
