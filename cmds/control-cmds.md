@@ -13,6 +13,7 @@ C-g           | cancels the current command if mistyped           |
 C-x u         | undo                                              |
 C-x C-c       | quit emacs                                        |
 C-h t         | to learn about emacs tutorial                     | 
+C-x h C-w     | remove contents in a file
 C-x 2         | split the selected frame, one above the other     | 
 C-x C-e       | place the cursor after the closing parenthesis    |
 C-x 2         |                                         |(split-window-below)
